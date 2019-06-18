@@ -11,7 +11,7 @@ date 3/17
 
 date ~6/17
 - upgrade & refresh the plan
-- make & remake the game by new plan
+- make & remake the game according to new plan
 
 date 6/18
 - modify diagram
